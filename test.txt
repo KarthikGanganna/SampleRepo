@@ -2,4 +2,5 @@ Hello, welcome to test file
 in the new line change
 3rd line from git
 4th line from local
-5th line to test merge
+5th line to test merge 
+6th line local merge test
